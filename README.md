@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there! I'm Bryan Dion Cellona
 
-<!--
-**bryandioncellona/bryandioncellona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a freshman at **Far Eastern University (FEU) Manila**, currently pursuing a **Bachelor of Science in Applied Mathematics**. Passionate about math, problem-solving, and using data to understand and shape the world around us.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 About Me
+
+- 💡 I chose **Applied Mathematics** because I believe in the power of math to solve real-world problems.
+- 📍 Philippines
+- 🌱 Currently learning C language.
+- 📊 Interested in data science, mathematical modeling, and information technology.
+- ✨ I'm exploring tech and analytics in and out of the classroom.
+
+---
+
+## 📌 Goals
+
+- ✅ Build strong foundations in math and programming.
+- 🔄 Start small projects in data analysis or modeling.
+- 🌐 Contribute to open-source or GitHub-hosted projects in the future.
+
+---
+
+> “Pure mathematics is, in its way, the poetry of logical ideas.” — Albert Einstein
+
+Thanks for visiting! 🌟
