@@ -8,7 +8,7 @@
 
 - 💡 I chose **Applied Mathematics** because I believe in the power of math to solve real-world problems.
 - 📍 Philippines
-- 🌱 Currently learning C language.
+- 🌱 Currently learning C programming, HTML, and CSS.
 - 📊 Interested in data science, mathematical modeling, and information technology.
 - ✨ I'm exploring tech and analytics in and out of the classroom.
 
