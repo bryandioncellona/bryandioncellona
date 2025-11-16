@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Bryan Dion Cellona
 
-🎓 I'm a freshman at **Far Eastern University - Manila**, currently pursuing a **Bachelor of Science in Applied Mathematics**. Passionate about math, problem-solving and using data to understand and shape the world around us.
+🎓 I'm a freshman at **Far Eastern University - Manila** currently pursuing a **Bachelor of Science in Applied Mathematics**. Passionate about math, problem-solving and using data to understand and shape the world around us.
 
 ---
 
